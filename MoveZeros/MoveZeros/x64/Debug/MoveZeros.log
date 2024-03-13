@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\48571\source\repos\MoveZeros\Solution.hpp(10,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  MoveZeros.vcxproj -> C:\Users\48571\source\repos\MoveZeros\x64\Debug\MoveZeros.exe
